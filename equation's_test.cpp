@@ -12,7 +12,7 @@ void test()
      for(int i = 0; !feof(testing_quad_equ); i++)
      {
          fscanf(testing_quad_equ, "%lg %lg %lg %d", &a, &b, &c, &nRoots );
-         passed_tests += unit_tests(a, b,  c,  nRoots);
+         passed_tests += unit_tests(a, b, c, nRoots);
      }
      fclose(testing_quad_equ);
 
