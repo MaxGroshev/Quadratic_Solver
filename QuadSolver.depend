@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1663966556 source:c:\projects\quadequsolver\quadratic_solver\equation's_test.cpp
+	"quad_equ_solver.h"
+
+1664046917 c:\projects\quadequsolver\quadratic_solver\quad_equ_solver.h
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	"My_ASSERT.h"
+
+1664037738 c:\projects\quadequsolver\quadratic_solver\my_assert.h
+
+1664037738 source:c:\projects\quadequsolver\quadratic_solver\main.cpp
+	"quad_equ_solver.h"
+
+1664037842 source:c:\projects\quadequsolver\quadratic_solver\quad_equ_solver.cpp
+	"quad_equ_solver.h"
+
+1663958121 source:c:\projects\quadequsolver\quadratic_solver\interaction_with_user.cpp
+	"quad_equ_solver.h"
+
