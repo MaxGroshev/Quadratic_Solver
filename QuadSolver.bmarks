@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="equation&apos;s_test.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="350" topLine="15" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="interaction_with_user.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="quad_equ_solver.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1193" topLine="40" />
+	</File>
+	<File name="My_ASSERT.h" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="quad_equ_solver.h" open="1" top="0" tabpos="2">
+		<Cursor position="75" topLine="55" />
+		<BrowseMarks positions="75" />
+	</File>
+</BrowseTracker_layout_file>
