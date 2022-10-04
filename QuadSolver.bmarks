@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <BrowseTracker_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="main.cpp" open="1" top="0" tabpos="5">
-		<Cursor position="0" topLine="0" />
+	<File name="quad_equ_solver.h" open="1" top="0" tabpos="2">
+		<Cursor position="75" topLine="0" />
+		<BrowseMarks positions="75" />
 	</File>
-	<File name="equation&apos;s_test.cpp" open="1" top="1" tabpos="3">
-		<Cursor position="350" topLine="15" />
-		<BrowseMarks positions="" />
-		<Book_Marks positions="" />
-	</File>
-	<File name="interaction_with_user.cpp" open="1" top="0" tabpos="6">
-		<Cursor position="0" topLine="0" />
+	<File name="equation&apos;s_test.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="430" topLine="0" />
+		<BrowseMarks positions="1742,430" />
 	</File>
 	<File name="quad_equ_solver.cpp" open="1" top="0" tabpos="4">
-		<Cursor position="1193" topLine="40" />
+		<Cursor position="541" topLine="0" />
+		<BrowseMarks positions="1058,541" />
 	</File>
 	<File name="My_ASSERT.h" open="1" top="0" tabpos="1">
-		<Cursor position="0" topLine="0" />
+		<Cursor position="192" topLine="0" />
+		<BrowseMarks positions="78,194" />
 	</File>
-	<File name="quad_equ_solver.h" open="1" top="0" tabpos="2">
-		<Cursor position="75" topLine="55" />
-		<BrowseMarks positions="75" />
+	<File name="interaction_with_user.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="610" topLine="0" />
+		<BrowseMarks positions="0,577,612,751,1849,1887" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="182" topLine="0" />
+		<BrowseMarks positions="30,51,76,78,174,543" />
+		<Book_Marks positions="" />
 	</File>
 </BrowseTracker_layout_file>

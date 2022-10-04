@@ -1,0 +1,3 @@
+gcc
+main.cpp interaction_with_user.cpp My_ASSERT.h quad_equ_solver.h equation's_test.cpp quad_equ_solver.cpp
+${file}

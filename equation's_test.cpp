@@ -18,12 +18,12 @@ void test()
 
      if (passed_tests != 0)
      {
-        printf("Тесты пройдены в количестве %d\n", passed_tests);
+        printf("%d tests was successfully\n", passed_tests);
      }
 
      else
      {
-         printf("Ни один тест не пройден\n");
+         printf("No tests was successfully past\n");
      }
 }
 
@@ -56,6 +56,7 @@ int unit_tests(double a, double b, double c, int nRoots)
     }
     return 0;
 }
+
 //======================================================================================================================
 
 bool are_equal(double n, double k)

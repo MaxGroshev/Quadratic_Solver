@@ -3,16 +3,13 @@
 #define test();
 #endif
 
-int main(void)
+int main()
 {
-    SetConsoleCP(1251);
-	SetConsoleOutputCP(1251);
-
     welcome_message();
 
-	double a = NAN, b = NAN, c = NAN;
-
 	test();
+
+	double a = NAN, b = NAN, c = NAN;
 
 	int continue_flag = 1;
 
