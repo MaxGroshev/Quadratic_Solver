@@ -1,9 +1,0 @@
-cmake_minimum_required(VERSION 3.0)
-
-project(Quadratic_Solver)
-
-set(SOURCE main.cpp interaction_with_user.cpp My_ASSERT.h quad_equ_solver.h equation's_test.cpp quad_equ_solver.cpp)
-
-add_executable(${PROJECT_NAME} ${SOURCE})
-
-
